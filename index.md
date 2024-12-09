@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Foundation Models for Science Big Data
+# 2025 Virginia Tech Computer Science Qualifier Exam: Foundation Models for Science Big Data
 
 Time: **Dec 15-18, 2024**
 
