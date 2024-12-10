@@ -43,7 +43,7 @@ Discussions among students of the papers identified for the exam are reasonable 
 - Beginning of Feb: Oral exams
 
 ## Tentative Reading Lists
-The reading lists below cover various topics in the area of data and information. You may choose any one of these lists for your exam. You are expected to significantly expand on your selected list while preparing your written solution. You are also welcome to create your own reading list on a topic not listed here relevant to data and information, but that reading list must be approved by your research advisor by 2/1/2025.
+The reading lists below cover various topics in the area of data and information. You may choose any one of these lists for your exam. You are expected to significantly expand on your selected list while preparing your written solution. You are also welcome to create your own reading list on a topic not listed here relevant to data and information, but that reading list must be approved by your research advisor by **2/1/2025**.
 
 The reading list and qualifying exam topic are not intended to necessarily be your dissertation topic. But you are welcome to make the two overlap if desired. Instead, you will be expected to reason about, write about, conduct a literature search on, and present this topic to demonstrate your ability to conduct doctorate research.
 
