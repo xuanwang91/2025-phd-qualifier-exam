@@ -26,7 +26,7 @@ TBD
   - a description of approaches to solve the problem; and
   - an evaluation plan for how such approaches would be validated.
 - Students will then provide an oral presentation detailing their solution. They must be completed within 15 minutes, of which 12 minutes are for presentation and 3 minutes for answering questions posed by faculty examiners.
-  - Each solution will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
+- Each solution will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
     
 ## Early Withdrawal Policy
 A student registered for the PhD qualifier exam may withdraw at any point of time before the early withdrawal deadline, which is **2/1/2025**. After this date, withdrawal is prohibited. Students with questions about this policy should contact the exam chair directly.
