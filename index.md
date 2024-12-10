@@ -5,8 +5,12 @@ layout: page
 
 # 2025 Virginia Tech Computer Science PhD Qualifier Exam: Data/ML/AI
 
-## Introduction
-The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop welcomes a wide range of contributions involving developing, analyzing, or applying foundation models for science big data spanning across various domains (e.g., biomedicine, chemistry, math, physics, material science, and geography) and various modalities (e.g., text, images, tables, graphs, and time series).
+## Committee
+- Chang-Tien Lu
+- Dawei Zhou
+- Liqing Zhang
+- Pinar Yanardag Delul
+- Xuan Wang (Chair)
 
 ## Submission
 We accept both **long papers** (up to 10 pages in IEEE 2-column format, including references) and **short papers** (up to 5 pages in IEEE 2-column format, including references). Papers should be formatted to [IEEE Computer Society Proceedings Manuscript Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Submissions that do not adhere to the format requirements will be **rejected without review**.
