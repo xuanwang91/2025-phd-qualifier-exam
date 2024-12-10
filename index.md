@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# 2025 Virginia Tech Computer Science PhD Qualifier Exam: Data/ML/AI
+# 2025 Computer Science PhD Qualifier Exam: Data/ML/AI
 
 ## Committee
 - Chang-Tien Lu
