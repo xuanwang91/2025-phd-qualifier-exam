@@ -36,13 +36,13 @@ Discussions among students of the papers identified for the exam are reasonable 
 
 ## Tentative Exam Schedule
 - 1/1/2025: Release of reading lists
-- 1/6/2025: Deadline for students to commit to the exam
-- 1/13/2025: Release of qualifier waiver decisions
+- 1/6/2025: Students commit to the qualifier exam
+- 1/13/2025: Qualifier waiver decisions
 - 1/20/2025: Release of exam questions
-- 2/1/2025: Last date to withdraw
+- 2/1/2025: Last date to withdraw from the qualifier exam
 - Beginning of Feb: Oral exams
-- 3/1/2025: Student submissions for the written exam
-- 3/20/2025: Release of qualifier result decisions
+- 3/1/2025: Students submit the written exam solutions
+- 3/20/2025: Qualifier result decisions
 
 ## Tentative Reading Lists
 The reading lists below cover various topics in the area of data and information. You may choose any one of these lists for your exam. You are expected to significantly expand on your selected list while preparing your written solution. You are also welcome to create your own reading list on a topic not listed here relevant to data and information, but that reading list must be approved by your research advisor by **2/1/2025**.
