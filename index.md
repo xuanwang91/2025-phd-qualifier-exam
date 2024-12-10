@@ -12,10 +12,8 @@ layout: page
 - Pinar Yanardag Delul
 - Xuan Wang (Chair)
 
-## Submission
-We accept both **long papers** (up to 10 pages in IEEE 2-column format, including references) and **short papers** (up to 5 pages in IEEE 2-column format, including references). Papers should be formatted to [IEEE Computer Society Proceedings Manuscript Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Submissions that do not adhere to the format requirements will be **rejected without review**.
-
-**The submission system**: [On-Line Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
+## Registered Students
+TBD
 
 ## Review
 The review process is **single-blind**, meaning that reviewers remain anonymous, but authors are not. All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press and made available at the IEEE Big Data 2024 Conference. Each accepted paper is required to have **at least one author** register and present the work at the workshop during the IEEE Big Data 2024 Conference.
