@@ -53,3 +53,7 @@ TBD
 
 ## Grading Scale
 The exam will ultimately be graded on a scale of Pass/Fail by GPC policies.
+
+## Use of Generative AI Tools
+The use of any generative AI tools (e.g., LLMs) during the written exam is **strictly prohibited for any purpose**, including but not limited to writing, editing, idea generation, grammar correction, or polishing answers. Violations will result in a direct Fail grade for the qualifier exam. All submissions will be monitored, and students may be asked to explain their work if AI use is suspected. Your work must be entirely your own. No exceptions.
+
