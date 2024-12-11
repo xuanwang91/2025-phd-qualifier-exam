@@ -49,7 +49,14 @@ The reading lists below cover various topics in the area of data and information
 
 The reading list and qualifying exam topic are not intended to necessarily be your dissertation topic. But you are welcome to make the two overlap if desired. Instead, you will be expected to reason about, write about, conduct a literature search on, and present this topic to demonstrate your ability to conduct doctorate research.
 
-TBD
+_List 1. Machine Learning_
+
+_List 2. Natural Language Processing_
+
+_List 3. Computer Vision_
+
+_List 4. Data Mining_
+
 
 ## Grading Scale
 The exam will ultimately be graded on a scale of Pass/Fail by GPC policies.
