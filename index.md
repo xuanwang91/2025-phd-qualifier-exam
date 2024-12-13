@@ -16,7 +16,6 @@ layout: page
 TBD
 
 ## Tentative Instructions
-- Send an email to **xuanw@vt.edu** to be registered. Your participation in the survey **did not** register you. We need to hear from you!
 - At the beginning of the examination period, all students will receive a document that contains questions.
 - By the end of the examination period, each student must turn in a written solution to one of those questions. The solutions will be no longer than 8 pages (excluding references) at 11 point font or larger using a format to be announced.
 - Written solutions should take the form of a scientific paper. It should include at least the following:
@@ -36,8 +35,8 @@ Discussions among students of the papers identified for the exam are reasonable 
 
 ## Tentative Exam Schedule
 - 1/1/2025: Release of reading lists
-- 1/6/2025: Students commit to the qualifier exam
-- 1/13/2025: Qualifier waiver decisions
+- 1/6/2025 - 1/13/2025: Students register the qualifier exam
+- 1/20/2025: Qualifier waiver decisions
 - 1/20/2025: Release of exam questions
 - 2/1/2025: Last date to withdraw from the qualifier exam
 - Beginning of Feb: Oral exams
