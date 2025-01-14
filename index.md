@@ -13,7 +13,14 @@ layout: page
 - Xuan Wang (Chair)
 
 ## Registered Students
-TBD
+- Abhilash Neog
+- Jiazhen Hu
+- Nabayan Chaudhury
+- Sindhuja Madabushi
+- Mohannad Al Ameedi
+- Nie Jianan
+- Manar Aljohani
+- Jason Banuelos
 
 ## Tentative Instructions
 - At the beginning of the examination period, all students will receive a document that contains questions.
