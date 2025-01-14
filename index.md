@@ -35,11 +35,11 @@ Discussions among students of the papers identified for the exam are reasonable 
 
 ## Tentative Exam Schedule
 - 1/1/2025: Release of reading lists
-- 1/6/2025 - 1/13/2025: Students register the qualifier exam
+- 1/6/2025 - 1/13/2025: Students register for the qualifier exam
 - 1/20/2025: Qualifier waiver decisions
 - 1/21/2025: Release of exam questions
 - 2/1/2025: Last date to withdraw from the qualifier exam
-- 3/1/2025: Students submit the written exam solutions
+- 3/1/2025: Students submit the written solutions and oral recordings
 - 3/20/2025: Qualifier result decisions
 
 ## Tentative Reading Lists
