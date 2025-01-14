@@ -25,7 +25,7 @@ layout: page
 ## Instructions
 - At the beginning of the examination period, all students will receive a document that contains questions. The detailed instructions will be emailed to the registered students.
 - By the end of the examination period, each student must submit a written solution and a recorded presentation to address those questions. The detailed instructions will be emailed to the registered students.
-- Each submission will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
+- Each submission will be graded by at least two faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
     
 ## Early Withdrawal Policy
 A student registered for the PhD qualifier exam may withdraw at any point of time before the early withdrawal deadline, which is **2/1/2025**. After this date, withdrawal is prohibited. Students with questions about this policy should contact the exam chair directly.
