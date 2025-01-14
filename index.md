@@ -24,15 +24,8 @@ layout: page
 
 ## Tentative Instructions
 - At the beginning of the examination period, all students will receive a document that contains questions.
-- By the end of the examination period, each student must turn in a written solution to one of those questions. The solutions will be no longer than 8 pages (excluding references) at 11 point font or larger using a format to be announced.
-- Written solutions should take the form of a scientific paper. It should include at least the following:
-  - a motivation section making clear the context of the problem/situation;
-  - a clear statement of the problem in terms of concepts and terminology in the information/data area, that addresses the situation/context;
-  - a review of related literature, drawn partially from multiple relevant works in the reading list, but must include additional references found by the student during a thorough literature search;
-  - a description of approaches to solve the problem; and
-  - an evaluation plan for how such approaches would be validated.
-- Students will then provide an oral presentation detailing their solution. They must be completed within 15 minutes, of which 12 minutes are for presentation and 3 minutes for answering questions posed by faculty examiners.
-- Each solution will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
+- By the end of the examination period, each student must submit a written solution and a recorded presentation to address those questions. The detailed instructions will be emailed to the registered students.
+- Each submission will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
     
 ## Early Withdrawal Policy
 A student registered for the PhD qualifier exam may withdraw at any point of time before the early withdrawal deadline, which is **2/1/2025**. After this date, withdrawal is prohibited. Students with questions about this policy should contact the exam chair directly.
