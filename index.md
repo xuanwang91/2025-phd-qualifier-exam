@@ -33,7 +33,7 @@ A student registered for the PhD qualifier exam may withdraw at any point of tim
 ## Academic Integrity
 Discussions among students of the papers identified for the exam are reasonable up until the date the exam is released publicly. Once the exam questions are released, we expect all such discussions will cease as students are required to conduct their own work entirely to answer the qualifier questions. This examination is conducted under the [University's Graduate Honor System](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html). Students are encouraged to draw from other papers than those listed in the exam to the extent that this strengthens their arguments. However, the answers submitted must represent the sole and complete work of the student submitting the answers. Material substantially derived from other works, whether published in print or found on the web, must be explicitly and fully cited. Note that your grade will be more strongly influenced by arguments you make rather than arguments you quote or cite.
 
-## Tentative Exam Schedule
+## Exam Schedule
 - 1/1/2025: Release of reading lists
 - 1/6/2025 - 1/13/2025: Students register for the qualifier exam
 - 1/20/2025: Qualifier waiver decisions
@@ -42,7 +42,7 @@ Discussions among students of the papers identified for the exam are reasonable 
 - 3/1/2025: Students submit the written solutions and oral recordings
 - 3/20/2025: Qualifier result decisions
 
-## Tentative Reading Lists
+## Reading Lists
 The reading lists below cover various topics in the area of data and information. You may choose any one of these lists for your exam. You are expected to significantly expand on your selected list while preparing your written solution. You are also welcome to create your own reading list on a topic not listed here relevant to data and information, but that reading list must be approved by your research advisor by **2/1/2025**.
 
 The reading list and qualifying exam topic are not intended to necessarily be your dissertation topic. But you are welcome to make the two overlap if desired. Instead, you will be expected to reason about, write about, conduct a literature search on, and present this topic to demonstrate your ability to conduct doctorate research.
