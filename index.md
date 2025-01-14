@@ -22,8 +22,8 @@ layout: page
 - Manar Aljohani
 - Jason Banuelos
 
-## Tentative Instructions
-- At the beginning of the examination period, all students will receive a document that contains questions.
+## Instructions
+- At the beginning of the examination period, all students will receive a document that contains questions. The detailed instructions will be emailed to the registered students.
 - By the end of the examination period, each student must submit a written solution and a recorded presentation to address those questions. The detailed instructions will be emailed to the registered students.
 - Each submission will be graded by at least 2 faculty members. A combined grade will then be assigned for each student based on all faculty input by the area committee, on a scale of Pass/Fail, as is called for by GPC policies.
     
